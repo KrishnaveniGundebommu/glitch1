@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://img.freepik.com/premium-vector/software-development-programming-language-coding_284092-33.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+</head>
+
+<body>
+
+
+<h1 style="font-size:20px;color:skyblue;text-align:right;">20NN1A0426</h1>
+<h1 style="font-size:35px;color:white;text-align:center;">CODING</h1>
+<p style="color:orange;">
+The process of assigning a code to something for classification or identification.The process or activity of writing computer programs.</p>
+<p style="color:orange;"> Coding, sometimes called computer programming, is how we communicate with computers. Code tells a computer what actions to take, and writing code is like creating a set of instructions. By learning to write code, you can tell computers what to do or how to behave in a much faster way.
+</p>
+<h2 style="color:white;"><b>There are four types of Codings:</b></h2>
+<ul style="color:orange;">
+<li>Data compression (or source coding)</li>
+<li>Error control (or channel coding)</li>
+<li>Cryptographic coding.</li>
+<li>Line coding.</li>
+</ul>
+
+<h2 style="color:white;"><u><b>Advantages:</b></u></h2>
+<ol style="color:orange;">
+<li>Coding can help you understand technology.</li>
+<li>It can enhance problem-solving skills.</li>
+<li>Coding can be applied to data visualisation </li>
+</ol>
+<img src="https://distantjob.com/wp-content/uploads/2021/09/1st-Sep-DJ-Visual-Benefits-of-Code-Reviews.jpg" alt="Benefits of coding" width="300" height="150">
+<h2 style="color:white;"><u><b>Disdvantages:</b></u></h2>
+<ol style="color:orange;">
+<li>Value judgements are difficult to code.</li>
+<li>If people don't know the code it can slow down data entry</li>
+<li>People might get eye sight if we spent more time with coding</li>
+</ol>
+<img src="https://blog.cybersquare.org/hubfs/asian-boy-typing-laptop-keyboard-classmates-sitting-table-watching-him-doing-task-together.jpg" alt="climate change" width="300" height="200">
+
+
+</body>
+
+</html>
